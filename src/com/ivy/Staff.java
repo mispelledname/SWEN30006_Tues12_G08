@@ -14,6 +14,6 @@ public class Staff extends Person {
 
         this.staffID = staffID;
 
-        
+
     }
 }
